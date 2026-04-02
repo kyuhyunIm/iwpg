@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"/Users/jeongyuhyeon/Documents/side-projects/iwpg\" log --all -1 --format=\"%H%n%an%n%ae%n%ad%n%s%n%b\")"
+    ]
+  }
+}
